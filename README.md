@@ -16,3 +16,7 @@ In any case, packages _may_ change in the future.
 ##What do I need to build or use this code?
 
 All the code _should_ run on JDK 7, but I'm using the compiler and runtime from JDK 8.
+
+##License
+
+MIT, just because it's the most simple. Although most of the code is based on something which I've used professionally, use it at your own risk. Some of the code is taken or adapted from StackOverflow or some blog, and in that case, I provide a link to the source.
